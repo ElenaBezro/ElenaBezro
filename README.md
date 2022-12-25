@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elena
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 
 <!---
 - 💞️ I’m looking to collaborate on ...
