@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Elena
 - 👀 I’m interested in web development
-- I have experience in:
--      JavaScript/TypeScript
--      React
--      Node.js
+- I have experience in JavaScript/TypeScript, React, Node.js
 - 🌱 I’m currently learning Java
 
 <!---
