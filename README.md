@@ -5,6 +5,8 @@
 
 - My projects:
 
+  -  **In process**    [E-Commerce Shop REST API](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+
   - [RSLang](https://rslang-monorepo-client.vercel.app/)
 
       Two-person team project for learning English, which includes two mini-games and a dictionary with the ability to monitor progress.
@@ -12,6 +14,11 @@
       _React, Redux, Typescript, Material UI, JSON_
     
       **Due to the 'cold start' nature of the Vercel platform, the startup time for the backend part of the app is approximately 10 minutes. Thank you for your understanding.**
+
+  - [Project Management App](https://manage-app-team32.netlify.app/)
+
+      Three-person team project for streamlining project management processes ("Trello" analog)
+      _React, Redux, Typescript, Material UI, i18n_
 
 
 <!---
