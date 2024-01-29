@@ -18,6 +18,7 @@
   - [Project Management App](https://manage-app-team32.netlify.app/)
 
       Three-person team project for streamlining project management processes ("Trello" analog)
+    
       _React, Redux, Typescript, Material UI, i18n_
 
 
