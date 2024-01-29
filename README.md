@@ -7,10 +7,11 @@
 
   - [RSLang](https://rslang-monorepo-client.vercel.app/)
 
-Two-person team project for learning English, which includes two mini-games and a dictionary with the ability to monitor progress.
+      Two-person team project for learning English, which includes two mini-games and a dictionary with the ability to monitor progress.
 
-React, Redux, Typescript, Material UI, JSON 
-(**Due to the 'cold start' nature of the Vercel platform, the startup time for the backend part of the app is approximately 10 minutes. Thank you for your understanding.**
+      _React, Redux, Typescript, Material UI, JSON_
+    
+      (Due to the 'cold start' nature of the Vercel platform, the startup time for the backend part of the app is approximately 10 minutes. Thank you for your understanding.
 )
 
 
