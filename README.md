@@ -11,8 +11,7 @@
 
       _React, Redux, Typescript, Material UI, JSON_
     
-      (Due to the 'cold start' nature of the Vercel platform, the startup time for the backend part of the app is approximately 10 minutes. Thank you for your understanding.
-)
+      **Due to the 'cold start' nature of the Vercel platform, the startup time for the backend part of the app is approximately 10 minutes. Thank you for your understanding.**
 
 
 <!---
