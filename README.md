@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elena
+- 👋 Hi, I’m Elena. My [LinkedIn](https://rslang-monorepo-client.vercel.app/](https://www.linkedin.com/in/elena-bezrodnova-0520561ba/)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java and Spring Boot
 - I have experience in JavaScript/TypeScript, React, Node.js
