@@ -18,6 +18,7 @@
   - [Project Management App](https://manage-app-team32.netlify.app/)
 
     [Demo: Create/update/delete columns and tasks. Drag&drop](https://user-images.githubusercontent.com/73139136/171032121-a1b62e12-8422-423d-a2c0-33a3ee635247.gif)
+    
     Three-person team project for streamlining project management processes ("Trello" analog)
     
       _React, Redux, Typescript, Material UI, i18n_
