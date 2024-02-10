@@ -6,6 +6,9 @@
 - My projects:
 
   -  **In process...**    [E-Commerce Shop REST API](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+ 
+  -        _Java, REST API, Spring Boot, unit and integration testing, Docker, MySQL, GCP_
+
 
   - [RSLang](https://rslang-monorepo-client.vercel.app/)
 
