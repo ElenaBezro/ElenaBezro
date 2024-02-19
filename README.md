@@ -5,8 +5,11 @@
 
 - My projects:
 
-  -  **In process...**    [E-Commerce Shop REST API](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+  - [E-Commerce Shop REST API. GitHub repository.](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
  
+      [Google Cluod Platform deploy.](https://zalandorestfulapi.ew.r.appspot.com/swagger-ui/index.html)
+
+  
        _Java, REST API, Spring Boot, unit and integration testing, Docker, MySQL, GCP_
 
 
