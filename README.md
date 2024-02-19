@@ -5,9 +5,13 @@
 
 - My projects:
 
-  - [E-Commerce Shop REST API. GitHub repository](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+  - E-Commerce Shop REST API:
  
-      [Google Cloud Platform deploy](https://zalandorestfulapi.ew.r.appspot.com/swagger-ui/index.html)
+
+       [GitHub repository](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+
+       [Google Cloud Platform deploy](https://zalandorestfulapi.ew.r.appspot.com/swagger-ui/index.html)
+    
 
   
        _Java, REST API, Spring Boot, unit and integration testing, Docker, MySQL, GCP_
