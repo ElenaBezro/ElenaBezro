@@ -8,7 +8,7 @@
   - E-Commerce Shop REST API:
  
 
-       [GitHub repository](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/main)
+       [GitHub repository](https://github.com/ElenaBezro/E-CommerceShopRESTfulAPI/tree/dev)
 
        [Google Cloud Platform deploy](https://zalandorestfulapi.ew.r.appspot.com/swagger-ui/index.html)
     
